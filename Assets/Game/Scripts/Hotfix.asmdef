@@ -1,0 +1,27 @@
+{
+    "name": "Hotfix",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Cinemachine",
+        "UnityGameFramework.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Builtin.Runtime",
+        "UniTask",
+        "GameFramework",
+        "DOTween.Extension",
+        "Unity.Jobs",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Obfuz.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
